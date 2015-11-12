@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.1.11"
+    "jquery": "1.11.1"
   },
   "devDependencies": {},
   "homepage": "",
