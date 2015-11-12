@@ -62,7 +62,7 @@ function WalterHelper(scope, element, attrs, services) {
  * @description
  * # walterHelper
  */
-angular.module('tmClientApplicationApp')
+angular.module('walterHelper')
     .directive('walterHelper', function ($compile) {
         return {
             restrict: 'A',
