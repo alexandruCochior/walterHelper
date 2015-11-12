@@ -1,0 +1,36 @@
+{
+  "name": "walter-helper",
+  "version": "dev-master",
+  "main": [
+    "src/module.js",
+    "src/directives/walter-helper.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "karma.conf.js",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.1.11"
+  },
+  "devDependencies": {},
+  "homepage": "",
+  "authors": [
+    {
+      "name": "Alexandru Constantin Cochior",
+      "email": "ac.cochior@contur.it"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "",
+  "keywords": "",
+  "license": "",
+  "srcPath": "src"
+}
